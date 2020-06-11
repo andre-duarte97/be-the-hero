@@ -12,8 +12,10 @@ Antes de tudo, é necessário você instalar as dependências. Para isso basta r
 # Crie uma pasta no seu sistema operacional.
 mkdir be-the-hero
 
-# Vai clonar a pasta do projeto para a sua máquina
+# Entrar na Pasta 
 cd be-the-hero
+
+# Vai clonar a pasta do projeto para a sua máquina
 git clone https://github.com/andre-duarte97/be-the-hero.git
 
 # Agora você precisa instalar todas as dependências. Esse processo vai demorar um pouco não feche o terminal.

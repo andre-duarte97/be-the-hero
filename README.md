@@ -14,7 +14,7 @@ mkdir be-the-hero
 
 # Vai clonar a pasta do projeto para a sua máquina
 cd be-the-hero
-git clone https://github.com/jefferson-calmon/ecoleta.git
+git clone https://github.com/andre-duarte97/be-the-hero.git
 
 # Agora você precisa instalar todas as dependências. Esse processo vai demorar um pouco não feche o terminal.
 npm install

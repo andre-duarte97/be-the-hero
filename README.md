@@ -1,5 +1,5 @@
 📖 Sobre
-Be The Hero é um projeto baseado na Semana OmniStack. Ele é um site onde Ongs podem se cadastrar, para que pessoas possam doar sangue através do site.
+Be The Hero é um projeto baseado na Semana OmniStack. Ele é um site onde Ongs podem se cadastrar, e essa Ongs irão cadastrar casos contendo Título, Descrição e valor, que posteriormente pessoas poderão doar.
 
 🛰️ Tecnologias usadas
 Node.js

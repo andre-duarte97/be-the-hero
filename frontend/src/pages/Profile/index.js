@@ -12,6 +12,7 @@ export default function Profile() {
     const ongId = localStorage.getItem('ongId');
     const ongName = localStorage.getItem('OngName');
     
+    
 
     useEffect(() => {
         api.get('profile', {
@@ -58,6 +59,7 @@ export default function Profile() {
             </header>
 
             <h1>Casos Cadastrados</h1>
+            {/* <h4>Total de casos: 5</h4> */}
 
             <ul>
                 {incidents.map(incident => (

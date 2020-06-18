@@ -2,6 +2,15 @@ const connection = require('../database/connection');
 
 module.exports = {
 
+
+    async teste(req, res) {
+        const [nome, email] = req.body;
+
+        console.log(nome,email)
+       
+        return res.status(204).send();
+    },
+
     async index(request, response) {
         const {page = 1} = request.query
 

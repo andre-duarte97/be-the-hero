@@ -16,6 +16,7 @@ routes.delete('/ongs/:id', ongController.delete)
 routes.get('/profile', ProfileController.index)
 
 routes.get('/incidents', incidentController.index)
+routes.get('/teste', incidentController.teste)
 routes.post('/incidents', incidentController.create)
 routes.delete('/incidents/:id', incidentController.delete)
 
